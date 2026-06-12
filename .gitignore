@@ -1,4 +1,7 @@
 .venv
+./backend/.venv
 .env
-
+*.egg-info/
+__pycache__
 .python-version
+node_modules
